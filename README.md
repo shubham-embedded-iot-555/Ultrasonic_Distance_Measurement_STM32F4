@@ -171,6 +171,7 @@ STM32-HC-SR04-I2C_LCD/
 ├── Core/
 │   ├── Inc/
 │   │   └── main.h
+│   │   └── lcd_i2c.h
 │   └── Src/
 │       ├── main.c          # Main application
 │       ├── stm32f4xx_it.c  # Interrupt routines
