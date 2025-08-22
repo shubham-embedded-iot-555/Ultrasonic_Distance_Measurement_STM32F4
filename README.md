@@ -188,9 +188,3 @@ STM32-HC-SR04-I2C_LCD/
 
 MIT License – free to use, modify, and distribute.
 
-
----
-
-If you want, I can also **generate a clean visual schematic (PNG)** showing your STM32 board, HC-SR04, and I2C LCD connections. This will make the README fully professional.
-
-Do you want me to create that schematic?
