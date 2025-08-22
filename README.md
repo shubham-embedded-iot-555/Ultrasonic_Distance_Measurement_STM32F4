@@ -188,9 +188,6 @@ STM32-HC-SR04-I2C_LCD/
 
 MIT License – free to use, modify, and distribute.
 
----
-
-✅ This **matches exactly your current code**: TIM2\_CH1 on PA0, TRIG on PE10, I2C LCD on PB6/PB7.
 
 ---
 
